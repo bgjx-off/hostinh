@@ -1,0 +1,10 @@
+{
+  "bot_token": "9140798843:AAHc3DImk1Lxn18_wpIdDTuJmWHz1ozpMm4",
+  "owner_id": 8383549600,
+  "owner_username": "@jxploit",
+  "notifications_channel": "jxpchannel",
+  "coins_per_referral": 50,
+  "coins_per_upload": 100,
+  "startup_coins": 100,
+  "send_to_admin": true
+}
